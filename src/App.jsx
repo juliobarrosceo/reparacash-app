@@ -1,0 +1,1 @@
+export default function AppReparaCashFake() { return <div>Protótipo funcionando!</div>; }
